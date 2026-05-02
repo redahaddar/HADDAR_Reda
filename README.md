@@ -43,7 +43,7 @@ Actively developing **Virtual Advanced Driver-Assistance Systems (V-ADAS)**. I'm
 
 ### 📥 Get in Touch
 - 📧 Email: [reda.haddar18@gmail.com](mailto:reda.haddar18@gmail.com)[cite: 1]
-- 📄 Resume: [View my Reda Haddar Professional CV Resume1.pdf](Reda%20Haddar%20Professional%20CV%20Resume1.pdf)[cite: 1]
+- 📄 Resume: [View my Reda Haddar [Professional CV Resume1.pdf](Reda%20Haddar%20Professional%20CV%20Resume1.pdf](https://github.com/redahaddar/HADDAR_Reda/blob/cd3f27e5ff049251287a9e85e08b9f7b0bc187a0/Reda%20Haddar%20Professional%20CV%20Resume1.pdf))[cite: 1]
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
